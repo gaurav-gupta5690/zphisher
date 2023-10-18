@@ -1,19 +1,22 @@
 #a {
     text-align: center;
+    font-size: 30px;
 }
 
 #b {
     text-align: center;
     width: 600px;
+    font-size: 30px;
 }
 
 #c {
     color: orange;
+    font-size: 50px;
 }
 
 #cc {
     text-align: center;
-    color:white
+    color:rgb(5, 5, 5)
 }
 ::placeholder{
     color: white;
@@ -37,7 +40,7 @@
 
 input{
     font-size: 20px;
-    border: chocolate
+    border-color: black;
 }
 .abcd {
     color: orange;
@@ -50,12 +53,15 @@ p {
 .ab {
     background-color: rgb(236, 224, 197);
     width: 900px;
-    height: 90px;
+    height: 150px;
     text-align: center;
     font-size: 150%;
 }
+#hh{
+    font-size: 50px;
+}
 .mm{
-    font-size: 60%
+    font-size: 30px;
     
 }
 #bb{
@@ -73,7 +79,7 @@ p {
     text-align: center;
     padding-top: 5px;
     background-color: orange;
-    font-size: 34px;
+    font-size: 60px;
     color: white;
     height: 45px;
     width: 500px;
@@ -98,4 +104,10 @@ p {
 .uu{
     text-align: left;
     font-size: 25px;
+}
+#ss{
+    font-size: 60px;
+}
+#dd{
+    font-size: 60px;
 }
